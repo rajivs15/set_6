@@ -1,3 +1,4 @@
 n=int(input())
 a=str(n)
-print(len(a))
+x=len(a)
+print(x)
